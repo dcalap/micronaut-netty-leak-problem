@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: buffer-problem
+  server:
+    max-request-size: 50mb

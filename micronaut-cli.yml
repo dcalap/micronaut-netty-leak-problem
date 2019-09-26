@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: buffer.problem
+---
+testFramework: junit
+sourceLanguage: java
